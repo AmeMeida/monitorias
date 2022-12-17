@@ -1,0 +1,3 @@
+[submodule "monitorias"]
+	path = monitorias
+	url = https://github.com/AmeMeida/vault-monitorias
